@@ -1,6 +1,7 @@
 # Olist E-Commerce Business Analytics & Executive Dashboard
 
 An end-to-end Data Analytics project leveraging **MySQL 8.4**, **Python (Pandas & OpenPyXL)**, and multi-platform spreadsheet tools (**Excel, Google Sheets, Apple Numbers**) to analyze **99,441 orders** from the Olist Brazilian E-Commerce public dataset.
+<img width="753" height="632" alt="Screenshot 2026-09-20 at 3 24 03 PM" src="https://github.com/user-attachments/assets/ce47fa95-76eb-490f-9136-b1d0599bdcab" />
 
 ---
 
